@@ -121,4 +121,9 @@ This project is open source and available for educational and research purposes.
 
 ## Acknowledgments
 
-Original PV fault dataset provided by [clayton-h-costa](https://github.com/clayton-h-costa/pv_fault_dataset).
+This project uses the photovoltaic fault detection dataset introduced in the following paper:
+
+Costa, C. H., Figueiredo, J., Teixeira, C. A., Cardoso, A. J. M., & Boaventura-Cunha, J. (2020).  
+**Monitoring System for Online Fault Detection and Classification in Photovoltaic Plants**.  
+_Sensors_, 20(17), 4688.  
+https://doi.org/10.3390/s20174688
