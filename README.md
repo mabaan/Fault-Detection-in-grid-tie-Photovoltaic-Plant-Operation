@@ -1,8 +1,7 @@
-# Fault Detection in Grid-Tied Photovoltaic Plant Operation
-
 <div align="center">
-  <!-- Add project image/banner here -->
-  <img src="" alt="Project Banner" width="800">
+  
+  <h1><b>Fault Detection in Grid-Tied Photovoltaic Plant Operation</b></h1>
+  <img src="https://cinea.ec.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2024-05/AdobeStock_177220781.jpeg?itok=I0shhunt" alt="Project Banner" width="800">
 </div>
 
 ## Overview
