@@ -23,10 +23,6 @@ Traditional monitoring approaches rely on periodic manual inspections, which are
 
 This project explores how supervised learning algorithms can distinguish between normal operation and various fault conditions using readily available sensor data from PV installations.
 
-## Dataset
-
-The input data was engineered from real operational data sourced from a PV plant. The original dataset is available at [clayton-h-costa/pv_fault_dataset](https://github.com/clayton-h-costa/pv_fault_dataset).
-
 ### Features
 
 | Feature | Description |
